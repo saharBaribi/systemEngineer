@@ -2,9 +2,15 @@
 Repository of all required assignments in information systems engineering masters. 
 
 Courses included: 
-Maching Learning
+
+Maching Learning 
+
 Deep Learning
+
 Recommendation systems 
-NLP
-Big Data
+
+NLP 
+
+Big Data 
+
 Research methods
