@@ -1,8 +1,10 @@
 # systemEngineer
-for all the system engineer second degree homework
+Repository of all required assignments in information systems engineering masters. 
 
-- HW_1 uploaded
-- HW_2 uploaded
-- HW_3 uploaded
-- project, in progressd
-
+Courses included: 
+Maching Learning
+Deep Learning
+Recommendation systems 
+NLP
+Big Data
+Research methods
